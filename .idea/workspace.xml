@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c270be-b456-4c3b-96c9-5b01f4bcecf5" name="Changes" comment="" />
+    <list default="true" id="a2c270be-b456-4c3b-96c9-5b01f4bcecf5" name="Changes" comment="commit inicial">
+      <change beforePath="$PROJECT_DIR$/cine-api/src/main/java/com/org/cine/service/FilmeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cine-api/src/main/java/com/org/cine/service/FilmeService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,7 @@
     "Application.CineApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Guilherme/Documents/Projetos/cine"
   }
@@ -61,6 +64,33 @@
       <option name="presentableId" value="Default" />
       <updated>1758833977797</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1758845412186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758845412186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".gitattributes" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
   </component>
 </project>
